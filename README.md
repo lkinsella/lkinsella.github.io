@@ -6,6 +6,8 @@ The configuration and content for my personal blog using `jekyll-bootsra.386` as
 
 The blog uses a modified variant of `jekyll-bootsra.386` inspired by Adam Elkus.
 
-## Copyright
+## License
 
-All content is generally copyright &copy;2019 Lloyd Kinsella, especially content in `_pages`. However configuration and source is provided in the hope it is instructive.
+Blog content in `_pages` is copyright &copy;2019 Lloyd Kinsella.
+
+All other content is licensing under the MIT license.
