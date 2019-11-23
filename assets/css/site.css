@@ -1,3 +1,11 @@
 pre, code {
 	font-family: 'Source Code Pro', monospace;
 }
+
+hr {
+	border-top: 2px solid #bbbbbb;
+}
+
+.statcounter {
+	display: none;
+}

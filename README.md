@@ -8,6 +8,6 @@ The blog uses a modified variant of `jekyll-bootsra.386` inspired by Adam Elkus.
 
 ## License
 
-Blog content in `_pages` is copyright &copy;2019 Lloyd Kinsella.
+Blog content in `_pages` and `assets` are copyright &copy;2019 Lloyd Kinsella.
 
-All other content is licensing under the MIT license.
+All other content is licensed under the MIT license.
