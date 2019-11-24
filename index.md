@@ -1,6 +1,6 @@
 ---
 layout: page
-title: P.E.B.K.A.C.
+title: P.E.B.K.A.C
 ---
 {% include JB/setup %}
 

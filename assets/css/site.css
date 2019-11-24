@@ -6,6 +6,14 @@ hr {
 	border-top: 2px solid #bbbbbb !important;
 }
 
+ul.tag_box, .tag_box li {
+	list-style-type: none;
+}
+
 .statcounter {
 	display: none;
+}
+
+.mb19 {
+	margin-bottom: 19px;
 }
